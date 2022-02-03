@@ -1,16 +1,17 @@
 # Proof of Concept for Pac-Man
-Copy Project Absract here
+This document proposes an arcade game that most people may have played before. The Pac-Man game is a game where Pac-Man eats all his favorite snack pellets shown on the screen.
+
 
 # How to Build
 Prerequisites:
-- Specify operating System it have been demonstrated to work 
-- Wich version of Java or other libraries needed 
-- What IDE to use
+- MacOS, Windows
+- A somewhat updated Java version should work
+- IntelliJ
 
 Edit the follwing instructions:
 - clone the code from the main branch
 - What target or file should be build
 
 # How to Run and Test
-- After clicking run you should see Hello World! in a new window... 
+- Run Pacman class to play
 
