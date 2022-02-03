@@ -26,7 +26,7 @@ Time permitting:
 - Rewind feature
 - Show Ghosts Pathing
 - Ghosts frenzy mode
-- 1 or 2 ghost turn invincible (dissapears on map but hurts Pac-Man if collision occurs)
+- 1 or 2 ghost turn invincible (disappears on map but hurts Pac-Man if collision occurs)
 - Different version of Pac-Man (mouse, cheese, cat)
 
 # How to Run and Test
