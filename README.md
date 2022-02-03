@@ -14,7 +14,7 @@ Edit the follwing instructions:
 
 Goal:
 - Develop code to look like the original Pac-Man
-- Reset everything but the score when Pac-Man has eaten all the snack pellets
+- Reset everything but the score and heart remaining when Pac-Man has eaten all the snack pellets
 - Fix the terrains to look like original
 - Change ghost color
 - Add large pellet snack. When Pac-Man eats the large pellet snack, he temporarily gains ability to eat the ghost or be invulnerable.
