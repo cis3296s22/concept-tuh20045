@@ -9,8 +9,8 @@ Prerequisites:
 - IntelliJ
 
 Edit the follwing instructions:
-- clone the code from the main branch
-- What target or file should be build
+- clone the code from https://github.com/Gaspared/Pacman.git
+- Go to Model class and loadImages() and delete anything before "images" to display characters.
 
 # How to Run and Test
 - Run Pacman class to play
