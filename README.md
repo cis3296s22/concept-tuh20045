@@ -1,4 +1,4 @@
-# Proof of Concept for PROJECT NAME 
+# Proof of Concept for Pac-Man
 Copy Project Absract here
 
 # How to Build
